@@ -182,7 +182,7 @@ stack-data==0.2.0
 statsmodels==0.13.2
 sympy==1.10
 ta==0.10.1
-TA-Lib @ file:///C:/ta-lib/TA_Lib-0.4.24-cp39-cp39-win_amd64.whl
+TA-Lib
 tables==3.7.0
 tabulate==0.8.9
 tapy==1.9.1
